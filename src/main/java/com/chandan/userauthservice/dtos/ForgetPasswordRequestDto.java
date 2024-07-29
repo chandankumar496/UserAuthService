@@ -1,2 +1,4 @@
-package com.chandan.userauthservice.dtos;public class ForgetPasswordRequestDto {
+package com.chandan.userauthservice.dtos;
+
+public class ForgetPasswordRequestDto {
 }

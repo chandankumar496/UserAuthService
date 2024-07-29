@@ -1,2 +1,5 @@
-package com.chandan.userauthservice.models;public enum SessionState {
+package com.chandan.userauthservice.models;
+
+public enum SessionState {
+    ACTIVE,INACTIVE;
 }

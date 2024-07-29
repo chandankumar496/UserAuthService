@@ -1,2 +1,6 @@
-package com.chandan.userauthservice.dtos;public class LogoutRequestDto {
+package com.chandan.userauthservice.dtos;
+
+public class LogoutRequestDto {
+
+
 }
